@@ -1,0 +1,19 @@
+{
+  "name": "jsmodernsetup",
+  "version": "1.0.0",
+  "description": "A step by step explanation on how to setup development of a modern web project using npm, webpack, babel and other tools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fpiantini/jsmodernsetup.git"
+  },
+  "author": "Francesco Piantini <francesco.piantini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpiantini/jsmodernsetup/issues"
+  },
+  "homepage": "https://github.com/fpiantini/jsmodernsetup#readme"
+}
